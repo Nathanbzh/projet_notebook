@@ -5,7 +5,12 @@
 - Ajoutez des commentaires clairs pour expliquer vos choix.
 - Utilisez des emoji avec windows + ;
 - Interprétez les résultats de vos visualisations (quelques phrases).
+
+Le lien vers le repértoire github : https://github.com/Nathanbzh/projet_notebook
+L'application est accessible au lien suivant : https://projetnotebook-vqu6wkikgrgvamaxvlib2s.streamlit.app/
 """
+ 
+
 
 ### 1. Importation des librairies et chargement des données
 import os
